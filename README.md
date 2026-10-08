@@ -74,10 +74,3 @@ Random Forest, Logistic Regression, classification, data preprocessing, model co
 - **Web & Software Development**: Building scalable, user-centric web applications and systems.
 - **Innovation & Essay Competitions**: Researching and proposing tech-driven solutions to real-world problems.
 
----
-
-## 📫 Contact Me
-
-- **LinkedIn**: [Nathaviela Thalita Kirana](TODO_FILL_LINK) <!-- fill in manually -->
-- **Email**: [Email Me](mailto:TODO_FILL_LINK) <!-- fill in manually -->
-- **Portfolio Website**: [My Portfolio](TODO_FILL_LINK) <!-- fill in manually -->
