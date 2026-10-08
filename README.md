@@ -1,4 +1,4 @@
-# Hi there, I'm Nawa! 👋
+# Hi there, I'm Nathaviela Thalita Kirana! 👋
 
 **Student developer building practical solutions with AI, data, and web technologies.**
 
